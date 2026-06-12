@@ -7,7 +7,7 @@ export default {
     version: "1.0.0",
     orientation: "portrait",
     icon: "./assets/images/PacketoLogo.png",
-    scheme: "Packeto",
+    scheme: "packeto",
     userInterfaceStyle: "automatic",
     newArchEnabled: true,
     ios: {
